@@ -1,3 +1,12 @@
 [submodule "psla"]
 	path = psla
 	url = https://github.com/YuanGongND/psla
+[submodule "ast"]
+	path = ast
+	url = https://github.com/YuanGongND/ast
+[submodule "PaSST"]
+	path = PaSST
+	url = https://github.com/kkoutini/PaSST
+[submodule "AVE"]
+	path = AVE
+	url = https://github.com/YapengTian/AVE-ECCV18
