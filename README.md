@@ -14,7 +14,7 @@ Audio-visual event localization (AVEL) task aims to localize the sound events in
 If you would like to download the FGAVE dataset, please fill out the form
 
 ```
-data/Liscence_Agreement.pdf
+data/License_Agreement.pdf
 ```
 and send it to [inspur mailbox](liulu06@inspur.com). Once accepted, we will send you the link to our download script.sh.
 
