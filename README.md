@@ -26,7 +26,7 @@ To analyze the fine-grained  level of our dataset, we perform the classification
  - Fine-Grained Audio Classification
  
  
-![The quantitative results on ESC-50 and our FGAVE-Audio.  PLSA, AST and PaSST are three advanced methods in audio classification.  PLSA+ImageNet Pretrain denotes as a transformerbased  model pretrained with ImageNet.  ACC, mAP, AUC is the evaluation metrics, shorted for  accuracy, mean average precision and area under curve.  First, PaSST performs the best in three  models (comparing three values with wavy line).  Second, three models have better distinguishing  ability in material categorization than action (comparing two values in underline).  Third, pure audios  of our FGAVE is more difficult to identify than ESC-50 (comparing three values in bold).](./images/Snipaste_2022-06-14_18-28-27_1.png)
+![The quantitative results on ESC-50 and our FGAVE-Audio.  PLSA, AST and PaSST are three advanced methods in audio classification.  PLSA+ImageNet Pretrain denotes as a transformerbased  model pretrained with ImageNet.  ACC, mAP, AUC is the evaluation metrics, shorted for  accuracy, mean average precision and area under curve.  First, PaSST performs the best in three  models (comparing three values with wavy line).  Second, three models have better distinguishing  ability in material categorization than action (comparing two values in underline).  Third, pure audios  of our FGAVE is more difficult to identify than ESC-50 (comparing three values in bold).](./images/Snipaste_2022-06-14_18-28-27.png)
 	
 	
 - Audio-Visual Event Localization
